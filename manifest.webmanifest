@@ -1,0 +1,12 @@
+{
+  "name": "CVD_High_Embodiment",
+  "short_name": "CVD_High_Embodiment",
+  "id": "com.example.gamename",
+  "description": "",
+  "orientation": "any",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
